@@ -1,0 +1,7 @@
+﻿"rootChord"= 0.12308
+"NACACamberedAirfoil"= 2412
+"incidenceAngle"= 0
+"aspectRatio"= 6.5
+"taperRatio"= 1
+"sweepAngle"= 0
+"dihedral"= 0

@@ -1,0 +1,3 @@
+﻿"hStabDistanceFromWing"= 0.345
+"vStabDistanceFromWing"= 0.345
+"LEDistanceFromWing"= 0.25
