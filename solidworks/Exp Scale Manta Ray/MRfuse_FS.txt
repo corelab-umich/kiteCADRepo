@@ -1,2 +1,2 @@
-﻿"length"= 0.647
+﻿"length"= 0.66
 "diameter"= 0.0635
