@@ -1,0 +1,16 @@
+[StartTime]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=2s
+[SolverState]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=2
+[MainFrame]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPCLCAAAAADJBAAAAAKBEAAAAAGGCAAAAA
+[ShowMin]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=No
+[SolverType]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=Linear Analysis
+[StudyType]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=0
+[StudyName]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=Static 1
+[Solver]
+FEA - _Tow System Assy V1.1_defeature v3-Static 1.MFC=Iterative
