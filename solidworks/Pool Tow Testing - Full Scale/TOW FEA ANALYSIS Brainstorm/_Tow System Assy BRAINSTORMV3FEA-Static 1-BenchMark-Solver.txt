@@ -1,0 +1,31 @@
+Solver 0.000 Linear-static-solver-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 0.000 Loading-and-preparing-input-data-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 0.313 Loading-and-preparing-input-data-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 0.313 Computing-load-vector-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 0.391 Computing-load-vector-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 1.156 Computing-element-stiffness-matrix-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 3.781 Computing-element-stiffness-matrix-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 3.797 GLOBAL-STIFFNESS-MATRIX-DECOMPOSITION-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.125 GLOBAL-STIFFNESS-MATRIX-DECOMPOSITION-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.125 BACK&FORWARD-SUBSTITUATION-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.203 BACK&FORWARD-SUBSTITUATION-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.375 Computing-reaction-forces-for-load-case(LCASE)=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.844 Computing-reaction-forces-for-load-case(LCASE)=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.844 Computing-stresses-for-load-case=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.876 Computing-stresses-for-load-case=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.910 Linear-static-solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SOLVER TYPE= Direct Sparse Solver
+Number of Equations (NEQ)=87252
+Number of Nodal points (NUMNP)=22531
+Number of Pseudo nodes (NUMPS)=7
+Number of Elements (NUME)=11875
+Number of Pseudo Elements (NUMP)=19362
+SOLUTION TIME LOG
+Time for Input Data Transfer from Database =1.235000
+Time for Structure Stiffness Matrix Calculation (STF_PHASE)=2.656000
+Time for Direct Sparse Solver =1.328000
+Time for Contact (and/or Large displacement) operations =0.000000
+Time for Printout of Disp & Reaction calc (REC_PAHSE)=0.641000
+Time for Stress Calculation and Stress printout (STS_PHASE)=0.032000
+Time for writing Postprocessing information (PST_PHASE)=0.000000
+TOTAL SOLUTION TIME (TOT_TIME)=5.970000
