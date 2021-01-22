@@ -1,0 +1,6 @@
+﻿"rootChord"= 0.55
+"NACAairfoil"= 0015
+"incidentAngle"= 0
+"aspectRatio"= 8.0808
+"taperRatio"= 0.8
+"sweepAngle"= 0
